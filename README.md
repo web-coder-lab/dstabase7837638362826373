@@ -1,13 +1,13 @@
 # dstabase7837638362826373
 
-Database host for **Artist's Studio**.
-
-All structured data lives under:
+Artist's Studio — structured database on GitHub.
 
 ```
 Artists studio/
-  data/
-  media/
+  Admin/          ← staff, security, chat, contacts, versions
+  Front/          ← public site content (requires user login on API)
+  media/          ← uploaded files (public + private)
 ```
 
-Do not put app secrets in public clones. Production API uses hashed passwords only.
+Live API: https://artists-studio.onrender.com  
+**Never store plaintext passwords.** Only `password_hash`.

@@ -1,0 +1,7 @@
+{
+  "lock_after_failures": 5,
+  "lock_minutes": 15,
+  "admin_path": "/Hjwihebdiggeksyevkdibendkxbskjwowhdjfidvbebd",
+  "admin_allowed_ips": [],
+  "require_2fa": false
+}

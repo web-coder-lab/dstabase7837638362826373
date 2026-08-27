@@ -1,0 +1,8 @@
+{
+  "roles": {
+    "superadmin": ["*"],
+    "admin": ["site.edit", "media.upload", "chat.reply", "users.read", "security.read", "publish"],
+    "moderator": ["chat.reply", "contacts.read", "reels.moderate"],
+    "user": ["chat.send", "reels.like", "reels.comment", "reels.save"]
+  }
+}

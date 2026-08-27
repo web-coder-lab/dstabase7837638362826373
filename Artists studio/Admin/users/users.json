@@ -1,0 +1,4 @@
+{
+  "items": [],
+  "note": "Fields: id, username, name, password_hash, role (superadmin|admin|moderator|user), status, created_at, last_login. NO plaintext password."
+}

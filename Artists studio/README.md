@@ -1,9 +1,9 @@
-# Artists studio — data root
+# Artists studio
 
-| Path | Purpose |
-|------|---------|
-| `data/studio.json` | Users (hashed passwords), site, chats metadata, portfolio refs, reels, versions |
-| `data/README.md` | Schema notes |
-| `media/` | Uploaded gallery files (synced from API storage when configured) |
+| Folder | Purpose |
+|--------|---------|
+| **Admin/** | Users, sessions, audit, contacts, conversations, messages, calls, versions, permissions |
+| **Front/** | Site, theme, socials, portfolio, reels (+ likes/comments/saves), policies, pages |
+| **media/** | Binary uploads mirrored from API storage |
 
-Live API: https://artists-studio.onrender.com
+Each domain has its **own folder** and **own JSON file(s)**.
