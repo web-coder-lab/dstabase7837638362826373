@@ -1,1 +1,7 @@
-{"accent":"#c4a574"}
+{
+  "accent": "#c4a574",
+  "background": "#0a0a0b",
+  "text": "#f4f1ea",
+  "font_display": "Cormorant Garamond",
+  "font_body": "DM Sans"
+}
