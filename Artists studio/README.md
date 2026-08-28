@@ -1,9 +1,32 @@
-# Artists studio
+# Artist's Studio — GitHub Database (Phase F)
 
-| Folder | Purpose |
-|--------|---------|
-| **Admin/** | Users, sessions, audit, contacts, conversations, messages, calls, versions, permissions |
-| **Front/** | Site, theme, socials, portfolio, reels (+ likes/comments/saves), policies, pages |
-| **media/** | Binary uploads mirrored from API storage |
+PostgreSQL-style layout on GitHub (JSON tables).
 
-Each domain has its **own folder** and **own JSON file(s)**.
+```
+Artists studio/
+  Admin/          # private / ops tables
+    users/
+    sessions/
+    audit/
+    security/
+    notifications/
+    contacts/
+    conversations/
+    messages/
+    media/
+    calls/
+    versions/
+  Front/          # public CMS tables
+    site/
+    theme/
+    pages/
+    portfolio/
+    reels/ (+ likes, comments, saves)
+    socials/
+    policies/
+    draft/
+    meta/         # seq + published_at
+```
+
+Primary driver: app `github-db.js` via GitHub Contents API.
+No demo photos/reels uploaded.
