@@ -8,8 +8,17 @@
   "profile_bio": "Work that holds still long enough to be felt.",
   "about": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a direct line when you need to talk.",
   "services": [
-    { "title": "Portrait sessions", "body": "Directed sittings with calm pacing and natural light preference." },
-    { "title": "Editorial / lookbook", "body": "Series work for brands and personal projects." },
-    { "title": "Consultation", "body": "Shot planning, references, and delivery notes." }
+    {
+      "title": "Portrait sessions",
+      "body": "Directed sittings with calm pacing and natural light preference."
+    },
+    {
+      "title": "Editorial / lookbook",
+      "body": "Series work for brands and personal projects."
+    },
+    {
+      "title": "Consultation",
+      "body": "Shot planning, references, and delivery notes."
+    }
   ]
 }
