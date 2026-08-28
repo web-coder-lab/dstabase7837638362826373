@@ -1,32 +1,16 @@
-# Artist's Studio — GitHub Database (Phase F)
+# Artist's Studio — Database (GitHub)
 
-PostgreSQL-style layout on GitHub (JSON tables).
+Only this folder is the live database. Do not store app code here.
 
 ```
 Artists studio/
-  Admin/          # private / ops tables
+  Admin/
+    Password login/credentials.json   ← admin username + password (edit anytime)
     users/
-    sessions/
-    audit/
-    security/
-    notifications/
-    contacts/
-    conversations/
-    messages/
-    media/
-    calls/
-    versions/
-  Front/          # public CMS tables
-    site/
-    theme/
-    pages/
-    portfolio/
-    reels/ (+ likes, comments, saves)
-    socials/
-    policies/
-    draft/
-    meta/         # seq + published_at
+      users.json                      ← user index
+      accounts/{username}.json        ← one file per user (profile + control)
+      chats/{username}.json           ← per-user chat history
+    sessions, audit, security, contacts, conversations, messages, ...
+  Front/
+    site, theme, pages, portfolio, reels, socials, policies, meta, draft
 ```
-
-Primary driver: app `github-db.js` via GitHub Contents API.
-No demo photos/reels uploaded.
