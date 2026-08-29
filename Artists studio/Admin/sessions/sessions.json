@@ -1,3 +1,14 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "6db79db1a4d338f3cd3bba7074f5f921170f207eab2ad630",
+      "user_id": 1,
+      "username": "admin",
+      "role": "superadmin",
+      "ip": "34.11.74.3",
+      "ua": "curl/8.5.0",
+      "created_at": "2026-08-29T06:00:40.430Z",
+      "last_seen": "2026-08-29T06:00:40.430Z"
+    }
+  ]
 }
