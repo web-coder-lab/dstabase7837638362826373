@@ -1,0 +1,5 @@
+{
+  "admin_key": "StudioAdminKey-2026-ChangeMe",
+  "header": "X-Admin-Key",
+  "note": "Admin app sends this header. No login screen."
+}
