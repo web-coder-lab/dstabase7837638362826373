@@ -1,20 +1,3 @@
 {
-  "items": [
-    {
-      "id": "4896fa310006",
-      "at": "2026-08-29T05:58:11.721Z",
-      "action": "login_ok",
-      "username": "admin",
-      "role": "superadmin",
-      "ip": "154.81.234.214"
-    },
-    {
-      "id": "087dde93a921",
-      "at": "2026-08-29T05:58:07.233Z",
-      "action": "login_ok",
-      "username": "admin",
-      "role": "superadmin",
-      "ip": "34.11.74.3"
-    }
-  ]
+  "items": []
 }
