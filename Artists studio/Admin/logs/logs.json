@@ -2,6 +2,13 @@
   "items": [
     {
       "id": 1,
+      "at": "2026-08-29T15:15:25.548Z",
+      "type": "media",
+      "action": "portfolio_delete",
+      "by": "admin"
+    },
+    {
+      "id": 1,
       "at": "2026-08-29T15:14:12.324Z",
       "type": "media",
       "action": "portfolio_upload",
