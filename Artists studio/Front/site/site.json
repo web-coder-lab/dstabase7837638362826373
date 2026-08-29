@@ -1,8 +1,8 @@
 {
   "brand": "Artist's Studio",
-  "tagline": "Photography \u00b7 Direction \u00b7 Craft",
+  "tagline": "Photography · Direction · Craft",
   "hero_title": "A quiet space for work that holds attention.",
-  "hero_subtitle": "Portfolio, reels, and a direct line when you are ready \u2014 WhatsApp, Instagram, or email.",
+  "hero_subtitle": "Portfolio, reels, and a direct line when you are ready — WhatsApp, Instagram, or email.",
   "profile_name": "Studio Artist",
   "profile_role": "Photographer & Director",
   "profile_bio": "Work that holds still long enough to be felt. Careful light. Honest frames.",
@@ -64,7 +64,7 @@
       "title": "Policies"
     },
     "footer": {
-      "line": "Artist's Studio \u2014 photography & direction"
+      "line": "Artist's Studio — photography & direction"
     }
   }
 }
