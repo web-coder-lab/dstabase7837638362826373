@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "36abd949ab8804926eeed1a26b91cfa4e7b11f60c00c5eb3",
+      "user_id": 2,
+      "username": "HussainTest",
+      "role": "user",
+      "ip": "34.11.74.3",
+      "ua": "curl/8.5.0",
+      "created_at": "2026-08-29T06:00:51.632Z",
+      "last_seen": "2026-08-29T06:00:51.632Z"
+    },
+    {
       "id": "6db79db1a4d338f3cd3bba7074f5f921170f207eab2ad630",
       "user_id": 1,
       "username": "admin",
