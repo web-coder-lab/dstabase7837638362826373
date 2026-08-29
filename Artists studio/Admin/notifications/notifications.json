@@ -17,6 +17,17 @@
       "text": "Someone liked photo \"child photo shoot\"",
       "at": "2026-08-29T15:15:17.120Z",
       "read": false
+    },
+    {
+      "id": 3,
+      "kind": "reel_like",
+      "reel_id": 1,
+      "title": "TestReel",
+      "username": "admin",
+      "name": "Studio Admin",
+      "text": "Studio Admin liked reel \"TestReel\"",
+      "at": "2026-08-29T15:38:12.596Z",
+      "read": false
     }
   ]
 }
