@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "username": "HussainTest",
+  "name": "hussain",
+  "password_hash": "$2a$10$Rgd2vRrBjBevjpTO9y4l3e66eVJ4U70qVZNdPWrjOM7PLLEZgipV2",
+  "role": "user",
+  "status": "active",
+  "must_change_password": false,
+  "created_at": "2026-08-29T06:00:50.324Z",
+  "last_login": "2026-08-29T06:00:51.632Z",
+  "chat": {
+    "conversation_id": null,
+    "messages": []
+  }
+}
