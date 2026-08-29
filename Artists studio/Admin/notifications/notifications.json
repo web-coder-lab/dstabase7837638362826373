@@ -50,6 +50,17 @@
       "text": "Studio Admin liked reel \"TestReel\"",
       "at": "2026-08-29T15:42:41.658Z",
       "read": false
+    },
+    {
+      "id": 6,
+      "kind": "reel_like",
+      "reel_id": 2,
+      "title": "cute sister",
+      "username": "admin",
+      "name": "Studio Admin",
+      "text": "Studio Admin liked reel \"cute sister\"",
+      "at": "2026-08-29T15:58:32.412Z",
+      "read": false
     }
   ]
 }
