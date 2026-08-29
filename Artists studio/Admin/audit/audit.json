@@ -1,3 +1,36 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "a8f2004e04e6",
+      "at": "2026-08-29T06:00:40.430Z",
+      "action": "login_ok",
+      "username": "admin",
+      "role": "superadmin",
+      "ip": "34.11.74.3"
+    },
+    {
+      "id": "e34748ab1b66",
+      "at": "2026-08-29T05:58:59.626Z",
+      "action": "sessions_revoke_all",
+      "by": "admin",
+      "count": 2,
+      "ip": "154.81.234.214"
+    },
+    {
+      "id": "4896fa310006",
+      "at": "2026-08-29T05:58:11.721Z",
+      "action": "login_ok",
+      "username": "admin",
+      "role": "superadmin",
+      "ip": "154.81.234.214"
+    },
+    {
+      "id": "087dde93a921",
+      "at": "2026-08-29T05:58:07.233Z",
+      "action": "login_ok",
+      "username": "admin",
+      "role": "superadmin",
+      "ip": "34.11.74.3"
+    }
+  ]
 }
