@@ -28,6 +28,28 @@
       "text": "Studio Admin liked reel \"TestReel\"",
       "at": "2026-08-29T15:38:12.596Z",
       "read": false
+    },
+    {
+      "id": 4,
+      "kind": "reel_like",
+      "reel_id": 1,
+      "title": "TestReel",
+      "username": "admin",
+      "name": "Studio Admin",
+      "text": "Studio Admin liked reel \"TestReel\"",
+      "at": "2026-08-29T15:42:39.401Z",
+      "read": false
+    },
+    {
+      "id": 5,
+      "kind": "reel_like",
+      "reel_id": 1,
+      "title": "TestReel",
+      "username": "admin",
+      "name": "Studio Admin",
+      "text": "Studio Admin liked reel \"TestReel\"",
+      "at": "2026-08-29T15:42:41.658Z",
+      "read": false
     }
   ]
 }
