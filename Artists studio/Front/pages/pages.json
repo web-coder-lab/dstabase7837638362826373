@@ -1,37 +1,6 @@
 {
   "home": {
     "slug": "home",
-    "title": "Home",
-    "published": true
-  },
-  "about": {
-    "slug": "about",
-    "title": "About",
-    "published": true
-  },
-  "portfolio": {
-    "slug": "portfolio",
-    "title": "Portfolio",
-    "published": true
-  },
-  "reels": {
-    "slug": "reels",
-    "title": "Reels",
-    "published": true
-  },
-  "services": {
-    "slug": "services",
-    "title": "Services",
-    "published": true
-  },
-  "contact": {
-    "slug": "contact",
-    "title": "Contact",
-    "published": true
-  },
-  "policies": {
-    "slug": "policies",
-    "title": "Policies",
     "published": true
   }
 }
