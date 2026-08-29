@@ -1,3 +1,22 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": 1,
+      "kind": "portfolio_like",
+      "portfolio_id": 1,
+      "title": "child photo shoot",
+      "text": "Someone liked photo \"child photo shoot\"",
+      "at": "2026-08-29T15:15:10.166Z",
+      "read": false
+    },
+    {
+      "id": 2,
+      "kind": "portfolio_like",
+      "portfolio_id": 1,
+      "title": "child photo shoot",
+      "text": "Someone liked photo \"child photo shoot\"",
+      "at": "2026-08-29T15:15:17.120Z",
+      "read": false
+    }
+  ]
 }
