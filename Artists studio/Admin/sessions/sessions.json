@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "78b96d7a50660d6094b1596cc0d84a427ecfd3f43627e6e1",
+      "user_id": 1,
+      "username": "admin",
+      "role": "superadmin",
+      "ip": "103.125.177.55",
+      "ua": "okhttp/4.12.0",
+      "created_at": "2026-08-29T12:37:28.890Z",
+      "last_seen": "2026-08-29T12:37:28.890Z"
+    },
+    {
       "id": "36abd949ab8804926eeed1a26b91cfa4e7b11f60c00c5eb3",
       "user_id": 2,
       "username": "HussainTest",
