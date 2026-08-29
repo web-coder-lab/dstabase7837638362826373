@@ -1,1 +1,115 @@
-{}
+{
+  "site": {
+    "brand": "Artist's Studio",
+    "tagline": "Photography · Direction · Craft",
+    "hero_title": "A quiet space for work that holds attention.",
+    "hero_subtitle": "Portfolio, reels, and a direct line when you are ready — WhatsApp, Instagram, or email.",
+    "profile_name": "Studio Artist",
+    "profile_role": "Photographer & Director",
+    "profile_bio": "Work that holds still long enough to be felt. Careful light. Honest frames.",
+    "about": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a simple way to reach out when the work is right.",
+    "services": [
+      {
+        "title": "Portrait sessions",
+        "body": "Directed sittings with calm pacing and natural direction."
+      },
+      {
+        "title": "Editorial / lookbook",
+        "body": "Series work for brands, labels, and personal archives."
+      },
+      {
+        "title": "Consultation",
+        "body": "Shot planning, references, and delivery notes."
+      }
+    ],
+    "copy": {
+      "nav": {
+        "home": "Home",
+        "about": "About",
+        "portfolio": "Work",
+        "reels": "Reels",
+        "services": "Services",
+        "contact": "Contact",
+        "policies": "Policies"
+      },
+      "home": {
+        "cta_work": "View work",
+        "cta_contact": "Contact"
+      },
+      "about": {
+        "eyebrow": "Studio",
+        "title": "About",
+        "body": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a simple way to reach out when the work is right."
+      },
+      "portfolio": {
+        "eyebrow": "Selected work",
+        "title": "Portfolio",
+        "empty": "No work published yet."
+      },
+      "reels": {
+        "eyebrow": "Motion",
+        "title": "Reels",
+        "empty": "No reels yet."
+      },
+      "services": {
+        "eyebrow": "Offerings",
+        "title": "Services"
+      },
+      "contact": {
+        "eyebrow": "Connect",
+        "title": "Get in touch",
+        "subtitle": "Reach the studio on WhatsApp, Instagram, or email. No account required."
+      },
+      "policies": {
+        "eyebrow": "Legal",
+        "title": "Policies"
+      },
+      "footer": {
+        "line": "Artist's Studio — photography & direction"
+      }
+    }
+  },
+  "theme": {
+    "accent": "#d4b483",
+    "background": "#070708",
+    "text": "#f6f3ec",
+    "mode": "dark",
+    "radius": "20px"
+  },
+  "socials": {
+    "whatsapp": "923244015101",
+    "email": "abdullahshah5919@gmail.com",
+    "instagram": "https://www.instagram.com/aartistsstudios?igsh=YTllNTA0cXZkOXJj",
+    "youtube": "",
+    "contact_mode": "external_only"
+  },
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "child photo shoot",
+      "category": "",
+      "image": "/media/public/1788016451121-67a80f83-up_1788016449485_244795",
+      "caption": "this is photo shoot",
+      "source": "gallery"
+    }
+  ],
+  "reels": [],
+  "policies": {
+    "privacy": {
+      "slug": "privacy",
+      "title": "Privacy",
+      "body": "We collect only what is needed to run Artist's Studio accounts, messages, and optional contact forms. Media you send in private chat is not public."
+    },
+    "terms": {
+      "slug": "terms",
+      "title": "Terms",
+      "body": "By using Artist's Studio you agree to respectful use of messaging and media features. Admin may remove abusive accounts."
+    }
+  },
+  "pages": {
+    "home": {
+      "slug": "home",
+      "published": true
+    }
+  }
+}
