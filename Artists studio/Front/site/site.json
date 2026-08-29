@@ -1,16 +1,16 @@
 {
   "brand": "Artist's Studio",
-  "tagline": "Photography · Direction · Craft",
+  "tagline": "Photography \u00b7 Direction \u00b7 Craft",
   "hero_title": "A quiet space for work that holds attention.",
-  "hero_subtitle": "Artist's Studio is a private atelier online — portfolio, reels, and a direct line to the studio.",
+  "hero_subtitle": "Artist's Studio is a private atelier online \u2014 portfolio, reels, and a direct line to the studio.",
   "profile_name": "Studio Artist",
   "profile_role": "Photographer & Director",
   "profile_bio": "Work that holds still long enough to be felt.",
-  "about": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a direct line when you need to talk.",
+  "about": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a direct line when you are ready.",
   "services": [
     {
       "title": "Portrait sessions",
-      "body": "Directed sittings with calm pacing and natural light preference."
+      "body": "Directed sittings with calm pacing."
     },
     {
       "title": "Editorial / lookbook",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Consultation",
-      "body": "Shot planning, references, and delivery notes."
+      "body": "Shot planning and delivery notes."
     }
   ]
 }
