@@ -2,69 +2,23 @@
   "brand": "Artist's Studio",
   "tagline": "Photography · Direction · Craft",
   "hero_title": "A quiet space for work that holds attention.",
-  "hero_subtitle": "Portfolio, reels, and a direct line when you are ready — WhatsApp, Instagram, or email.",
+  "hero_subtitle": "Artist's Studio is a private atelier online — portfolio, reels, and a direct line to the studio.",
   "profile_name": "Studio Artist",
   "profile_role": "Photographer & Director",
-  "profile_bio": "Work that holds still long enough to be felt. Careful light. Honest frames.",
-  "about": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a simple way to reach out when the work is right.",
+  "profile_bio": "Work that holds still long enough to be felt.",
+  "about": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a direct line when you need to talk.",
   "services": [
     {
       "title": "Portrait sessions",
-      "body": "Directed sittings with calm pacing and natural direction."
+      "body": "Directed sittings with calm pacing and natural light preference."
     },
     {
       "title": "Editorial / lookbook",
-      "body": "Series work for brands, labels, and personal archives."
+      "body": "Series work for brands and personal projects."
     },
     {
       "title": "Consultation",
       "body": "Shot planning, references, and delivery notes."
     }
-  ],
-  "copy": {
-    "nav": {
-      "home": "Home",
-      "about": "About",
-      "portfolio": "Work",
-      "reels": "Reels",
-      "services": "Services",
-      "contact": "Contact",
-      "policies": "Policies"
-    },
-    "home": {
-      "cta_work": "View work",
-      "cta_contact": "Contact"
-    },
-    "about": {
-      "eyebrow": "Studio",
-      "title": "About",
-      "body": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a simple way to reach out when the work is right."
-    },
-    "portfolio": {
-      "eyebrow": "Selected work",
-      "title": "Portfolio",
-      "empty": "No work published yet."
-    },
-    "reels": {
-      "eyebrow": "Motion",
-      "title": "Reels",
-      "empty": "No reels yet."
-    },
-    "services": {
-      "eyebrow": "Offerings",
-      "title": "Services"
-    },
-    "contact": {
-      "eyebrow": "Connect",
-      "title": "Get in touch",
-      "subtitle": "Reach the studio on WhatsApp, Instagram, or email. No account required."
-    },
-    "policies": {
-      "eyebrow": "Legal",
-      "title": "Policies"
-    },
-    "footer": {
-      "line": "Artist's Studio — photography & direction"
-    }
-  }
+  ]
 }
