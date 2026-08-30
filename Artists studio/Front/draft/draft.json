@@ -37,22 +37,7 @@
     "youtube": ""
   },
   "portfolio": [],
-  "reels": [
-    {
-      "id": 3,
-      "title": "ttata",
-      "description": "hshwhske eodbdbd",
-      "thumb": "",
-      "url": "/media/public/1788100421518-c46b10d7-up_1788100418688_244041.mp4",
-      "media_type": "video",
-      "size": 10609845,
-      "likes": 0,
-      "saves": 0,
-      "comments_count": 0,
-      "source": "gallery",
-      "created_at": "2026-08-30T14:34:01.450Z"
-    }
-  ],
+  "reels": [],
   "policies": {
     "privacy": {
       "slug": "privacy",
