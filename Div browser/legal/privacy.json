@@ -1,0 +1,7 @@
+{
+  "id": "privacy_policy",
+  "divs": "divs://browser.com/privacy_policy",
+  "title": "Privacy Policy",
+  "updatedAt": "2026-08-30T14:30:00Z",
+  "html": "<h1>Privacy Policy</h1><p>Div Browser stores publish keys and domain maps for your account. Legal pages are served in-app via divs://.</p>"
+}
