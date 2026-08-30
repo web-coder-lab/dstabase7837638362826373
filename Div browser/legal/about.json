@@ -1,0 +1,7 @@
+{
+  "id": "about",
+  "divs": "divs://browser.com/about",
+  "title": "About",
+  "updatedAt": "2026-08-30T14:30:00Z",
+  "html": "<h1>Div Browser</h1><p>Web + Div — private domains and public web in one shell.</p>"
+}
