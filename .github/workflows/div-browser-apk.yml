@@ -1,0 +1,57 @@
+name: Div Browser APK
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "Div browser/build/**"
+      - ".github/workflows/div-browser-apk.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: android-actions/setup-android@v3
+
+      - name: Build release APK
+        working-directory: Div browser/build
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleRelease --no-daemon -x lint -x lintVitalRelease
+
+      - name: Collect APK
+        run: |
+          mkdir -p "Div browser/releases"
+          APK=$(find "Div browser/build" -path "*/outputs/apk/release/*.apk" | head -1)
+          if [ -z "$APK" ]; then
+            APK=$(find "Div browser/build" -name "*.apk" | head -1)
+          fi
+          echo "Found: $APK"
+          cp "$APK" "Div browser/releases/Div-Browser-latest.apk"
+          ls -la "Div browser/releases/"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Div-Browser-APK
+          path: Div browser/releases/Div-Browser-latest.apk
+
+      - name: Remove source after successful build
+        run: |
+          # Keep database + releases only — delete build source tree
+          rm -rf "Div browser/build"
+          git config user.name "div-browser-ci"
+          git config user.email "ci@divbrowser.local"
+          git add -A
+          git status
+          git commit -m "CI: add Div-Browser-latest.apk and remove Div browser/build source" || echo "nothing to commit"
+          git push
