@@ -20,5 +20,20 @@
       "title": "Consultation",
       "body": "Shot planning, references, and delivery notes."
     }
-  ]
+  ],
+  "copy": {
+    "home": {
+      "hero_title": "A quiet space for work that holds attention.",
+      "hero_subtitle": "Artist's Studio is a private atelier online — portfolio, reels, and a direct line to the studio.",
+      "cta_primary": "View work"
+    },
+    "about": {
+      "title": "About",
+      "body": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a direct line when you need to talk."
+    },
+    "contact": {
+      "title": "CONTACT ",
+      "subtitle": ""
+    }
+  }
 }
