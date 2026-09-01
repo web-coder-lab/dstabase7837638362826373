@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9edecbd63387",
+      "at": "2026-09-01T00:41:46.971Z",
+      "action": "db_export",
+      "mode": "safe",
+      "username": "admin",
+      "ip": "34.11.74.3"
+    },
+    {
+      "id": "3611acc46582",
+      "at": "2026-09-01T00:41:45.913Z",
+      "action": "db_export",
+      "mode": "safe",
+      "username": "admin",
+      "ip": "34.11.74.3"
+    },
+    {
+      "id": "579f19c3aff2",
+      "at": "2026-09-01T00:41:43.684Z",
+      "action": "admin_key_failed",
+      "ip": "34.11.74.3",
+      "path": "/api/v1/admin/dashboard",
+      "count": 1
+    },
+    {
       "id": "a3bf1f0be1e4",
       "at": "2026-09-01T00:24:49.680Z",
       "action": "db_export",
