@@ -21,7 +21,22 @@
         "title": "Consultation",
         "body": "Shot planning, references, and delivery notes."
       }
-    ]
+    ],
+    "copy": {
+      "home": {
+        "hero_title": "A quiet space for work that holds attention.",
+        "hero_subtitle": "Artist's Studio is a private atelier online — portfolio, reels, and a direct line to the studio.",
+        "cta_primary": "View work"
+      },
+      "about": {
+        "title": "About",
+        "body": "Artist's Studio is a private atelier online. A quiet space for photography, visual stories, and carefully considered work.\n\nQuiet frames, careful light, and an eye for the details that are easy to miss. Every image begins with a moment worth keeping and ends as something made to be looked at, remembered, and felt.\n\nThe studio explores photography through different places, subjects, moods, and perspectives. Alongside still photography, the work extends into reels, visual content, and other creative projects — always with the same focus on atmosphere, detail, and authenticity.\n\nThere is no rush to fill every frame. Some moments speak through simplicity, some through light, and others through everything happening around them. The intention is to preserve those moments without taking away what made them special.\n\nThis studio is also a place to explore ongoing work, selected photographs, reels, and visual experiments. The collection grows with every new project, creating an evolving archive of moments and ideas.\n\nFor collaborations, creative conversations, or simply to talk about the work, there is a direct line when you need to talk."
+      },
+      "contact": {
+        "title": "contact ",
+        "subtitle": ""
+      }
+    }
   },
   "theme": {
     "accent": "#c4a574",
@@ -37,7 +52,22 @@
     "youtube": ""
   },
   "portfolio": [],
-  "reels": [],
+  "reels": [
+    {
+      "id": 4,
+      "title": "this",
+      "description": "hbhff",
+      "thumb": "",
+      "url": "/media/public/1788283594903-e7e82df6-up_1788283592933_245355.mp4",
+      "media_type": "video",
+      "size": 749868,
+      "likes": 0,
+      "saves": 0,
+      "comments_count": 0,
+      "source": "gallery",
+      "created_at": "2026-09-01T17:26:35.534Z"
+    }
+  ],
   "policies": {
     "privacy": {
       "slug": "privacy",
