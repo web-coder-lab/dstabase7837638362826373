@@ -51,7 +51,16 @@
     "instagram": "https://www.instagram.com/aartistsstudios?igsh=YTllNTA0cXZkOXJj",
     "youtube": ""
   },
-  "portfolio": [],
+  "portfolio": [
+    {
+      "id": 2,
+      "title": "baby",
+      "category": "",
+      "image": "/media/public/1788283748147-fa4b8734-up_1788283746127_245834.jpg",
+      "caption": "my cute sister daughter",
+      "source": "gallery"
+    }
+  ],
   "reels": [
     {
       "id": 4,
