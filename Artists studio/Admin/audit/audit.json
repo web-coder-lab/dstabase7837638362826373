@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "id": "a3bf1f0be1e4",
+      "at": "2026-09-01T00:24:49.680Z",
+      "action": "db_export",
+      "mode": "safe",
+      "username": "admin",
+      "ip": "34.11.74.3"
+    },
+    {
+      "id": "ec08dfa88c7c",
+      "at": "2026-09-01T00:24:49.045Z",
+      "action": "admin_key_failed",
+      "ip": "34.11.74.3",
+      "path": "/api/v1/admin/dashboard",
+      "count": 1
+    },
+    {
       "id": "8e33cded7042",
       "at": "2026-08-31T00:04:47.098Z",
       "action": "admin_key_failed",
