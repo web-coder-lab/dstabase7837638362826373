@@ -1,5 +1,12 @@
 {
   "version": 1,
-  "updated_at": null,
-  "users": {}
+  "updated_at": "2026-09-02T03:42:44.346Z",
+  "users": {
+    "apk_test_e2e_001": {
+      "app_token": "apk_test_e2e_001",
+      "device_id": "test-device-1",
+      "created_at": "2026-09-02T03:42:44.130Z",
+      "builds": []
+    }
+  }
 }
