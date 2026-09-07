@@ -92,6 +92,17 @@
       "text": "Studio Admin commented on \"Reel\": Oh my yes",
       "at": "2026-09-02T03:46:00.015Z",
       "read": false
+    },
+    {
+      "id": 10,
+      "kind": "reel_like",
+      "reel_id": 6,
+      "title": "behwb",
+      "username": "admin",
+      "name": "Studio Admin",
+      "text": "Studio Admin liked reel \"behwb\"",
+      "at": "2026-09-07T10:52:12.359Z",
+      "read": false
     }
   ]
 }
