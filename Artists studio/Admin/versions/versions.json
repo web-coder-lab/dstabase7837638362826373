@@ -78,6 +78,86 @@
           }
         }
       }
+    },
+    {
+      "id": 2,
+      "label": "v2",
+      "note": "",
+      "created_at": "2026-09-08T23:04:35.458Z",
+      "config": {
+        "site": {
+          "brand": "Artist's Studio",
+          "tagline": "Photography · Direction · Craft",
+          "hero_title": "A quiet space for work that holds attention.",
+          "hero_subtitle": "Artist's Studio is a private atelier online — portfolio, reels, and a direct line to the studio.",
+          "profile_name": "Studio Artist",
+          "profile_role": "Photographer & Director",
+          "profile_bio": "Work that holds still long enough to be felt.",
+          "about": "Artist's Studio is a private atelier online. Quiet frames, careful light, and a direct line when you need to talk.",
+          "services": [
+            {
+              "title": "Portrait sessions",
+              "body": "Directed sittings with calm pacing and natural light preference."
+            },
+            {
+              "title": "Editorial / lookbook",
+              "body": "Series work for brands and personal projects."
+            },
+            {
+              "title": "Consultation",
+              "body": "Shot planning, references, and delivery notes."
+            }
+          ],
+          "copy": {
+            "home": {
+              "hero_title": "A quiet space for work that holds attention.",
+              "hero_subtitle": "Artist's Studio is a private atelier online — portfolio, reels, and a direct line to the studio.",
+              "cta_primary": "View work"
+            },
+            "about": {
+              "title": "About",
+              "body": "Artist's Studio is a private atelier online. A quiet space for photography, visual stories, and carefully considered work.\n\nQuiet frames, careful light, and an eye for the details that are easy to miss. Every image begins with a moment worth keeping and ends as something made to be looked at, remembered, and felt.\n\nThe studio explores photography through different places, subjects, moods, and perspectives. Alongside still photography, the work extends into reels, visual content, and other creative projects — always with the same focus on atmosphere, detail, and authenticity.\n\nThere is no rush to fill every frame. Some moments speak through simplicity, some through light, and others through everything happening around them. The intention is to preserve those moments without taking away what made them special.\n\nThis studio is also a place to explore ongoing work, selected photographs, reels, and visual experiments. The collection grows with every new project, creating an evolving archive of moments and ideas.\n\nFor collaborations, creative conversations, or simply to talk about the work, there is a direct line when you need to talk."
+            },
+            "contact": {
+              "title": "contact ",
+              "subtitle": ""
+            }
+          }
+        },
+        "theme": {
+          "accent": "#c4a574",
+          "background": "#0a0a0b",
+          "text": "#f4f1ea",
+          "font_display": "Cormorant Garamond",
+          "font_body": "DM Sans"
+        },
+        "socials": {
+          "whatsapp": "923244015101",
+          "email": "abdullahshah5919@gmail.com",
+          "instagram": "https://www.instagram.com/aartistsstudios?igsh=YTllNTA0cXZkOXJj",
+          "youtube": ""
+        },
+        "portfolio": [],
+        "reels": [],
+        "policies": {
+          "privacy": {
+            "slug": "privacy",
+            "title": "Privacy",
+            "body": "We collect only what is needed to run Artist's Studio accounts, messages, and optional contact forms. Media you send in private chat is not public."
+          },
+          "terms": {
+            "slug": "terms",
+            "title": "Terms",
+            "body": "By using Artist's Studio you agree to respectful use of messaging and media features. Admin may remove abusive accounts."
+          }
+        },
+        "pages": {
+          "home": {
+            "slug": "home",
+            "published": true
+          }
+        }
+      }
     }
   ]
 }
